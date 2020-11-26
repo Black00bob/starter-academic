@@ -4,10 +4,10 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -18,7 +18,7 @@ subtitle = ""
   count = 5
   
   # Choose how many pages you would like to offset by
-  offset = 0
+  offset = 1
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
