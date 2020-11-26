@@ -37,13 +37,13 @@ date_format = "Jan 2006"
   date_end = "2016-06"
   description = """	Designed a machine that helps people carry large cargo upstairs and manufactured a prototype."""
 
-[[experience]]
-  title = "Participant"
-  company = "Undergraduate Innovative training Program"
-  company_url = ""
-  location = "Xuzhou,Jiangsu,China"
-  date_start = "2015-05"
-  date_end = "2015-10"
-  description = """  Helped the mentor and postgraduates and designed a governor by using magnetorheological fluid"""
+#[[experience]]
+#  title = "Participant"
+#  company = "Undergraduate Innovative training Program"
+  #company_url = ""
+  #location = "Xuzhou,Jiangsu,China"
+ # date_start = "2015-05"
+  #date_end = "2015-10"
+  #description = """  Helped the mentor and postgraduates and designed a governor by using magnetorheological fluid"""
 
 +++
