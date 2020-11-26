@@ -18,8 +18,8 @@ bio: My research interests include  robotics, additive manufacture
 
 interests:
 - soft robot
-- exskteleton
-- 3D printing
+- medical robot
+- additive manufacture
 
 education:
   courses:
@@ -59,4 +59,4 @@ user_groups:
 ---
 
 Zhang Xiu is a postgraduate student of mechanical engineering at Politecnico di Torino, Italy. His research interests are on kenematic 
-and dynamic analysis of robotics.
+and dynamic analysis of robotics. 
