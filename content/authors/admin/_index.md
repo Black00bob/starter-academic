@@ -25,10 +25,10 @@ education:
   courses:
   - course: MEng in Mechanical engineering
     institution: Politecnico di Torino
-    year: 2018
+#    year: 2018
   - course: BSc in Mechanical engineering
     institution: China University of Mining and Technology 
-    year: 2013
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,9 +43,9 @@ social:
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: cv
- #  icon_pack: ai
-  # link: files/cv.pdf
+- icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -60,4 +60,5 @@ user_groups:
 - Visitors
 ---
 
-Zhang Xiu is a postgraduate.
+Zhang Xiu is a postgraduate student of mechanical engineering at Politecnico di Torino, Italy. His research interests are on kenematic 
+and dynamic analysis of robotics.
