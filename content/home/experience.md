@@ -18,22 +18,23 @@ date_format = "Jan 2006"
   title = "Department of Research and Development (Internship)"
   company = "Bosch Rexroth Wujin Plant "
   company_url = ""
-  location = "Changzhou,China"
+  location = "Changzhou, China"
   date_start = "2016-10-01"
   date_end = "2017-01-01"
   description = """
-   
+   Responsibilities include:
+
   *Developed a software named AUTOBOM independently, which can help the engineer to make BOM automatically 
   * Worked on the project ABPAC, a new product faces to industry 4.0
 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "CUMT Summer Mining Engineering Program "
+  company = "University of Kentucky"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Kentucky, US"
+  date_start = "2016-07"
+  date_end = ""
+  description = """Invited by University of Kentucky; had a two weeks summer program about mining mechanical engineering in US."""
 +++
