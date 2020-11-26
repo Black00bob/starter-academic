@@ -15,28 +15,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Department of Research and Development (Internship)"
-  company = "Bosch Rexroth Wujin Plant "
+  title = "Robomaster CUMT-DJI-Laboratory"
+  company = "Member "
   company_url = ""
-  location = "Changzhou, China"
-  date_start = "2016-10-01"
-  date_end = "2017-01-01"
-  description = """
-   Responsibilities include:
-
-
-
-  * Developed a software named AUTOBOM independently, which can help the engineer to make BOM automatically 
-  * Worked on the project ABPAC, a new product faces to industry 4.0
-
-  """
+  location = "Xuzhou, Jiangsu, China"
+  date_start = "2015-11-01"
+  date_end = "2016-08-01"
+  description = """ Responsible for the 42mm golf ball launch system, manufactured, assembled, and tested the robots """
 
 [[experience]]
-  title = "CUMT Summer Mining Engineering Program "
-  company = "University of Kentucky"
+  title = "Jiangsu Undergraduate Mechanical Innovational Design Competition "
+  company = "Group Leader"
   company_url = ""
-  location = "Kentucky, US"
-  date_start = "2016-07-01"
-  date_end = ""
-  description = """Invited by University of Kentucky; had a two weeks summer program about mining mechanical engineering in US."""
+  location = "Xuzhou, Jiangsu, China"
+  date_start = "2015-09-01"
+  date_end = "2016-06-01"
+  description = """Designed a machine that helps people carry large cargo upstairs and manufactured a prototype."""
+
+
+[[experience]]
+  title = "Undergraduate Innovative training Program "
+  company = "Participant"
+  company_url = ""
+  location = "Xuzhou, Jiangsu, China"
+  date_start = "2015-05-01"
+  date_end = "2015-10-01"
+  description = """Helped the mentor and postgraduates and designed a governor by using magnetorheological fluid"""
 +++

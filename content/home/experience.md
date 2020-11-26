@@ -37,6 +37,6 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Kentucky, US"
   date_start = "2016-07-01"
-  date_end = ""
-  description = """Invited by University of Kentucky; had a two weeks summer program about mining mechanical engineering in US."""
+  date_end = "2016-08-01"
+  description = """Invited by University of Kentucky; had a two weeks summer program about mining mechanical engineering in the US."""
 +++
