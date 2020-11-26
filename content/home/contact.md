@@ -14,13 +14,13 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: ture
   
   # Email form provider
   form:
     provider: netlify
     formspree:
-      id:
+      id: 123
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
