@@ -40,7 +40,7 @@ social:
   link: '/#contact'  # For a direct email link, use "zhangxiu000@gmail".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Black00bob
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
