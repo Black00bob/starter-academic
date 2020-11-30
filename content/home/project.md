@@ -14,6 +14,17 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Hyper Redundant Manipulator "
+  company = "Bachelor Thesis"
+  company_url = ""
+  location = "Xuzhou, Jiangsu, China"
+  date_start = "2018-01-01"
+  date_end = "2018-09-01"
+  description = """Determine the mechanical structure of the robotic arm and specific parameters according to the requirements.
+Then, introduce the first snake-arm and the second snake-arm. """
+
 [[experience]]
   title = "Robomaster CUMT-DJI-Laboratory"
   company = "Member "
@@ -41,4 +52,5 @@ date_format = "Jan 2006"
   date_start = "2015-05-01"
   date_end = "2015-10-01"
   description = """Helped the mentor and postgraduates and designed a governor by using magnetorheological fluid"""
+
 +++
